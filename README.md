@@ -2,7 +2,7 @@
 This Jeopardy app utilizes a Jeopardy API to auto-generate a random set of categories and a random set of questions for each category. These are placed into a game "board", which the user can click on to access each question, and again to bring up the answer.
 
 <p align="center">
-     <img width="75%" src="app1.png" alt="App">
+     <img src="app1.png" alt="App">
 </p>
 
 <p align="center">
